@@ -1,0 +1,51 @@
+body {
+    background: url('/img/background.jpeg');
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-weight: bold;
+}
+
+h3{
+    color: #13161f;
+    font-weight: bold;
+}
+
+.masthead{
+    background: #eef1f6;
+    border-radius: 20px;
+    color: #13161f;
+    width: 500px;
+    height: 500px;
+    margin: 20px auto;
+    
+}
+
+.my-button {
+    background: #13161f;
+    border: 1px solid #eef1f6;
+}
+
+.my-button:hover {
+    background: #eef1f6;
+    color: #13161f;
+    border: 1px solid #13161f;
+}
+
+.my-nav  {
+    background: #13161f;
+    color: #eef1f6;
+}
+
+.my-nav a  {
+    color: #eef1f6;
+}
+
+.my-nav a:hover  {
+    color: #c0cfe7;
+}
