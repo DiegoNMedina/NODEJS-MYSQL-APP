@@ -18,6 +18,7 @@ h3{
 
 .masthead{
     background: #eef1f6;
+    opacity: 0.9;
     border-radius: 20px;
     color: #13161f;
     width: 500px;
